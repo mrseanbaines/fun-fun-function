@@ -1,3 +1,5 @@
+// Higher order functions are functions that take other functions as arguments
+
 // Basic function
 function triple(x) {
   return x * 3;
